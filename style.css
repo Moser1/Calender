@@ -1,0 +1,190 @@
+body {
+  background-color: beige;
+  font-family: "Gill Sans", "Gill Sans MT", Calibri, "Trebuchet MS", sans-serif;
+  margin-left: 30px;
+}
+img {
+  width: 100%;
+  height: 200px;
+  margin-left: 0;
+}
+
+tr {
+  margin-right: 15px;
+}
+th {
+  font-family: "Gill Sans", "Gill Sans MT", Calibri, "Trebuchet MS", sans-serif;
+  padding-right: 3px;
+  padding-left: 3px;
+  font-size: 20px;
+  margin-left: 15px;
+}
+.Year {
+  margin-top: 5px;
+}
+.hr {
+  border-top: 6px dashed black;
+  width: 450px;
+  margin-bottom: 50px;
+}
+.wrapper {
+  text-align: center;
+  margin: 0;
+}
+.months {
+  color: darkred;
+  font-size: 50px;
+  opacity: 0.6;
+}
+.months:hover {
+  background-color: bisque;
+}
+header {
+  text-align: center;
+  font-size: 50px;
+  color: darkred;
+}
+table {
+  margin: auto;
+  padding-right: 18px;
+}
+.weekend {
+  background-color: grey;
+  opacity: 0.5;
+}
+.nyd {
+  background-color: red;
+  opacity: 0.5;
+}
+.valentines {
+  background-color: blue;
+  opacity: 0.5;
+}
+.nyd2 {
+  display: none;
+}
+.nyd:hover + .nyd2 {
+  display: block;
+  color: red;
+  font-size: 8px;
+}
+.martin {
+  background-color: red;
+  opacity: 0.5;
+}
+.martin2 {
+  display: none;
+}
+.martin:hover + .martin2 {
+  display: block;
+  color: red;
+  font-size: 8px;
+}
+.vday {
+  background-color: red;
+  opacity: 0.5;
+}
+.vday2 {
+  display: none;
+}
+.vday:hover + .vday2 {
+  display: block;
+  color: red;
+  font-size: 8px;
+}
+.memo {
+  background-color: red;
+  opacity: 0.5;
+}
+.memo2 {
+  display: none;
+}
+.memo:hover + .memo2 {
+  display: block;
+  color: red;
+  font-size: 8px;
+}
+.jule {
+  background-color: red;
+  opacity: 0.5;
+}
+.jule2 {
+  display: none;
+}
+.jule:hover + .jule2 {
+  display: block;
+  color: red;
+  font-size: 8px;
+}
+.labor {
+  background-color: red;
+  opacity: 0.5;
+}
+.labor2 {
+  display: none;
+}
+.labor:hover + .labor2 {
+  display: block;
+  color: red;
+  font-size: 8px;
+}
+.veteran {
+  background-color: red;
+  opacity: 0.5;
+}
+.veteran2 {
+  display: none;
+}
+.veteran:hover + .veteran2 {
+  display: block;
+  color: red;
+  font-size: 8px;
+}
+.thanks {
+  background-color: red;
+  opacity: 0.5;
+}
+.thanks2 {
+  display: none;
+}
+.thanks:hover + .thanks2 {
+  display: block;
+  color: red;
+  font-size: 8px;
+}
+.xmas {
+  background-color: red;
+  opacity: 0.5;
+}
+.xmas2 {
+  display: none;
+}
+.xmas:hover + .xmas2 {
+  display: block;
+  color: red;
+  font-size: 8px;
+}
+.eve {
+  background-color: red;
+  opacity: 0.5;
+}
+.eve2 {
+  display: none;
+}
+.eve:hover + .eve2 {
+  display: block;
+  color: red;
+  font-size: 8px;
+}
+.ani {
+  background-color: red;
+  opacity: 0.5;
+}
+.ani2 {
+  display: none;
+}
+.ani:hover + .ani2 {
+  display: block;
+  color: red;
+  font-size: 10px;
+}
